@@ -1,3 +1,3 @@
-# testrepo
-## editing the file
-Its a markdown file in this repository.
+# DataScienceIsHere
+## Series of tutorials for aspiring data scientists
+Hello, world!
